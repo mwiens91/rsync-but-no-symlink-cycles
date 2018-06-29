@@ -9,6 +9,6 @@ Run with
 ./rsync_exclude_symlink_cycles.sh [source_directory] [destination_directory]
 ```
 
-Oh, when I used that `./` in the above snipped I literally meant it:
+Oh, when I used that `./` in the above snippet I literally meant it:
 make sure you run this in the same directory that the above script (and
-the helper python script) exists.
+the helper Python script) exists.
